@@ -1,1 +1,1 @@
-A simple google homepage code. (CSS/HTML)
+A simple google homepage layout. (CSS/HTML)
