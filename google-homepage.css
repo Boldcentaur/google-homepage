@@ -1,0 +1,82 @@
+header {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+#top_bar {
+    float: right;
+}
+
+#top_bar li {
+    display: inline-block;
+    padding: 10px;
+}
+
+#top_bar #sign_in {
+    background-color: royalblue;
+    padding: 6px 9px;
+    border-color: aliceblue;
+    border-radius: 3px;
+    color: white;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div.google_image {
+    clear: both;
+    text-align: center;
+    padding: 50px 25px;
+}
+
+form {
+    text-align: center;
+}
+
+.search_box input {
+    width: 600px;
+    height: 33px;
+    border-radius: 15px;
+    border-color: silver;
+}
+
+.button {
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.button input{
+    height: 40px;
+    width: 120px;
+    background-color: silver;
+    opacity: 0.6;
+}
+
+footer {
+    width: 100%;
+    bottom: 0;
+    padding-bottom: 0;
+    position: fixed;
+    background-color: rgb(223, 219, 219);
+}
+
+#footer a {
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
+    color: black
+}
+
+.footer_right {
+    float: right;
+}
+
